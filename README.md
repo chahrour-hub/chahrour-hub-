@@ -13,6 +13,7 @@
   </a>
 
   <br/><br/>
+  
   ---
 
 </div>
@@ -42,6 +43,11 @@
   </a>
   <br/> <br/>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=chahrour-hub-&color=29ABE2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=chahrour-hub&color=29ABE2&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   </a>
 </div>
+
+---
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                        DEV STATUS PANEL                                -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
