@@ -51,3 +51,21 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--                        DEV STATUS PANEL                                -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<pre>
++-------------------------------------------------------------------------+
+|  jawad@chahrour:~$ ./execute_profile.sh                                 |
++-------------------------------------------------------------------------+
+|  >>  Name          ->  Mohammad Jawad Chahrour                          |
+|  <<  Location      ->  Lebanon                                          |
+|  ==  Status        ->  learner and Internship                           |
+|  **  Focus         ->  Software Dev, IoT Solutions & Hardware           |
+|  ::  Tech Stack    ->  Python, Java, Dart, C++, Arduino, Raspberry Pi   |
+|  ??  Ask me about  ->  IT Maintenance, Robotics, Video Editing          |
+|  !!  Superpower    ->  Fast Learner & Proactive Problem Solver          |
++-------------------------------------------------------------------------+
+</pre>
+</div>
+
+---
