@@ -24,3 +24,23 @@
 <img src="https://komarev.com/ghpvc/?username=Chahrour-hub&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
+
+---
+
+ <div align="center">
+
+```
++----------------------------------------------------------------+
+|  @  DEVELOPER STATUS  .           CHAHROUR                        |
++----------------------------------------------------------------+
+|  >>  Status       ->  Still learning                              |
+|  <<  Location     ->  Lebanon                                     |
+|  ==  Mode         ->  Freelance + Collaboration                   |
+|  **  Current      ->  IoT, robotics & 3D prototyping              |
+|  ::  Learning     ->  SolidWorks, Machine Learning                |
+|  ??  Ask me about ->  Arduino, ESP32, Raspberry Pi, Python        |
+|  !!  Fun fact     ->  I love reading philosophy & religious books |
++----------------------------------------------------------------+
+```
+
+</div>
