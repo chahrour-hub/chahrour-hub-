@@ -44,3 +44,35 @@
 ```
 
 </div>
+
+---
+
+<div align="center">
+  <h2> 💡 Who I Am </h2>
+</div>
+
+<img align="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+
+```cpp
+class TechEnthusiast {
+public:
+    string name = "Mohammad Jawad Chahrour";
+    string location = "Lebanon";
+    string passion = "Bridging software development with hardware engineering & IoT.";
+
+    vector<string> skills = {
+        "Python", "Java", "C++", "Dart", 
+        "Arduino", "Raspberry Pi", "IoT Architecture"
+    };
+
+    vector<string> currently_building = {
+        "Mobile & Web Applications", 
+        "Smart Systems & Robotics"
+    };
+
+    void executeGoal() {
+        cout << "Leveraging technical skills to solve real-world problems!" << endl;
+    }
+};
+
+
