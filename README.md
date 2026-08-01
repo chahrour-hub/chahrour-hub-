@@ -69,3 +69,45 @@
 </div>
 
 ---
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                            WHO I AM                                    -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Who+I+Am&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+</div>
+
+<br/>
+
+<br/>
+
+<img align="right" alt="Maker at work" width="380"
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```cpp
+struct MohammadJawadChahrour {
+    string name = "Mohammad Jawad Chahrour";
+    string location = "Beirut, Lebanon";
+    string status = "First-Year Tech Student & Tech Enthusiast";
+    string focus = "Software Dev, IoT Solutions & Hardware Engineering";
+    string passion = "Bridging software, hardware, and smart systems";
+
+    vector<string> programming = {"Python", "Java", "C", "C++", "Dart"};
+    
+    vector<string> hardware_iot = {
+        "Arduino", "Raspberry Pi", "ESP modules", "Robotics"
+    };
+
+    vector<string> core_skills = {
+        "Problem Solving", "Fast Learning", "IT Maintenance", "Project Coordination"
+    };
+
+    string superpower = "Turning ideas into real working hardware + software.";
+    bool isReadyToBuild = true;
+};
+```
+
+---
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
