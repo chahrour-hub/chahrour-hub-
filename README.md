@@ -87,7 +87,7 @@
 ```cpp
 struct MohammadJawadChahrour {
     string name = "Mohammad Jawad Chahrour";
-    string location = "Beirut, Lebanon";
+    string location = "Lebanon";
     string status = "First-Year Tech Student & Tech Enthusiast";
     string focus = "Software Dev, IoT Solutions & Hardware Engineering";
     string passion = "Bridging software, hardware, and smart systems";
